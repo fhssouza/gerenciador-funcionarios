@@ -1,4 +1,4 @@
-package com.souzatech.gerenciadorFuncionarios.modelo;
+package com.souzatech.gerenciadorFuncionarios.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

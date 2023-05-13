@@ -1,7 +1,7 @@
-package com.souzatech.gerenciadorFuncionarios.modelo.repositorio;
+package com.souzatech.gerenciadorFuncionarios.model.repository;
 
-import com.souzatech.gerenciadorFuncionarios.modelo.Funcionario;
-import com.souzatech.gerenciadorFuncionarios.modelo.FuncionarioSetor;
+import com.souzatech.gerenciadorFuncionarios.model.Funcionario;
+import com.souzatech.gerenciadorFuncionarios.model.FuncionarioSetor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

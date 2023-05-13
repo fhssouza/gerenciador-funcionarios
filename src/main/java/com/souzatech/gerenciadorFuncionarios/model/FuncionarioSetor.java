@@ -1,4 +1,4 @@
-package com.souzatech.gerenciadorFuncionarios.modelo;
+package com.souzatech.gerenciadorFuncionarios.model;
 
 public enum FuncionarioSetor {
 
