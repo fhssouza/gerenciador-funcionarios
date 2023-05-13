@@ -45,7 +45,7 @@ public class FuncionarioController {
                 .orElseThrow(() -> new IllegalArgumentException("Invalid user Id: " + id));
 
         model.addAttribute("funcionario", funcionario);
-        return "atualizarForm";
+        return "atualizaForm";
 
     }
 
